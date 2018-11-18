@@ -1,0 +1,22 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "description": "Small Demo on Async and Await",
+  "main": "simpleExample.js",
+  "scripts": {
+    "test": "node simpleExample.js"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "node.js",
+    "demo"
+  ],
+  "author": "Daiwei Chen",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
